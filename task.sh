@@ -174,4 +174,5 @@ end)
     echo "" >>tasks
     echo "REGISTRO DE TAREAS FINALIZADO. ¡HASTA MAÑANA!"
     ;;
+*) echo "Comando inexistente. Si necesitas ayuda puedes ejecutar: task help";
 esac
